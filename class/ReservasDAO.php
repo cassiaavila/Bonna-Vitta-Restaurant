@@ -28,16 +28,13 @@ class ReservasDAO {
     public function store(Reservas $reservas) {
         try {
             $query = $this->conn->prepare(
-                "INSERT INTO reservas (  data, horario, Qtd_pessoas, telefone, email,nome)
-                    VALUES (:data, :horario, :Qtd_pessoas, :telefone, :email, :nome )");
+                "INSERT INTO reservas (  data, horario, Qtd_pessoas)
+                    VALUES (:data, :horario, :Qtd_pessoas )");
 
 
             $query->bindValue(':data', $reservas->data);
             $query->bindValue(':horario', $reservas->horario);
             $query->bindValue(':Qtd_pessoas', $reservas->Qtd_pessoas);
-            $query->bindValue(':telefone', $reservas->telefone);
-            $query->bindValue(':email', $reservas->email);
-            $query->bindValue(':nome', $reservas->nome);
 
             $query->execute();
 
@@ -49,7 +46,7 @@ class ReservasDAO {
     public function find($id)
     {
         try {
-            $query = $this->conn->prepare("SELECT * FROM Reservas WHERE id = :id");
+            $query = $this->conn->prepare("SELECT * FROM reservas WHERE id = :id");
             $query->bindValue(":id", $id);
             $query->execute();
             
@@ -63,7 +60,7 @@ class ReservasDAO {
     public function remove($id)
     {
         try {
-            $query = $this->conn->prepare("DELETE FROM Reservas WHERE id = :id");
+            $query = $this->conn->prepare("DELETE FROM reservas WHERE id = :id");
             $query->bindValue(":id", $id);
             $query->execute();
         } catch(Exception $e) {
@@ -74,7 +71,7 @@ class ReservasDAO {
     public function disable($id)
     {
         try {
-            $query = $this->conn->prepare("UPDATE Reservas SET status = 'inativo' 
+            $query = $this->conn->prepare("UPDATE reservas SET status = '0' 
             WHERE id = :id");
             $query->bindValue(":id", $id);
             $query->execute();

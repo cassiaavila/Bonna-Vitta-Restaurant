@@ -46,7 +46,7 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-02.jpg);">
 		<h2 class="tit6 t-center">
-			Contact
+			Contato
 		</h2>
 	</section>
 
@@ -63,7 +63,7 @@
 
 		<div class="container">
 			<h3 class="tit7 t-center p-b-62 p-t-105">
-				Send us a Message
+				Envie sua mensagem
 			</h3>
 
 			<form class="wrap-form-reservation size22 m-l-r-auto">
@@ -71,7 +71,7 @@
 					<div class="col-md-4">
 						<!-- Name -->
 						<span class="txt9">
-							Name
+							Nome
 						</span>
 
 						<div class="wrap-inputname size12 bo2 bo-rad-10 m-t-3 m-b-23">
@@ -93,7 +93,7 @@
 					<div class="col-md-4">
 						<!-- Phone -->
 						<span class="txt9">
-							Phone
+							Telefone
 						</span>
 
 						<div class="wrap-inputphone size12 bo2 bo-rad-10 m-t-3 m-b-23">
@@ -104,7 +104,7 @@
 					<div class="col-12">
 						<!-- Message -->
 						<span class="txt9">
-							Message
+							Messagem
 						</span>
 						<textarea class="bo-rad-10 size35 bo2 txt10 p-l-20 p-t-15 m-b-10 m-t-3" name="message" placeholder="Message"></textarea>
 					</div>
@@ -113,7 +113,7 @@
 				<div class="wrap-btn-booking flex-c-m m-t-13">
 					<!-- Button3 -->
 					<button type="submit" class="btn3 flex-c-m size36 txt11 trans-0-4">
-						Submit
+						Enviar
 					</button>
 				</div>
 			</form>

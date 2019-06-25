@@ -74,7 +74,7 @@
 						<div class="blo4 p-b-63">
 							<div class="pic-blo4 hov-img-zoom bo-rad-10 pos-relative">
 								<a href="blog-detail.php">
-									<img src="images/blog-05.jpg" alt="IMG-BLOG">
+
 								</a>
 
 								<div class="date-blo4 flex-col-c-m">
@@ -105,12 +105,12 @@
 									</span>
 
 									<span>
-										Cooking, Food
+										Cozinhando, comer
 										<span class="m-r-6 m-l-4">|</span>
 									</span>
 
 									<span>
-										8 Comments
+										Comentários
 									</span>
 								</div>
 
@@ -119,7 +119,7 @@
 								</p>
 
 								<a href="blog-detail.php" class="dis-block txt4 m-t-30">
-									Continue Reading
+									Continue lendo
 									<i class="fa fa-long-arrow-right m-l-10" aria-hidden="true"></i>
 								</a>
 							</div>

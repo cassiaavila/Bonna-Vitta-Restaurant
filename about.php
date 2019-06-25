@@ -45,7 +45,7 @@
 	<!-- Title Page -->
 	<section class="bg-title-page flex-c-m p-t-160 p-b-80 p-l-15 p-r-15" style="background-image: url(images/bg-title-page-03.jpg);">
 		<h2 class="tit6 t-center">
-			About Us
+			Sobre nós
 		</h2>
 	</section>
 
@@ -53,16 +53,17 @@
 	<!-- Our Story -->
 	<section class="bg2-pattern p-t-116 p-b-110 t-center p-l-15 p-r-15">
 		<span class="tit2 t-center">
-			Italian Restaurant
+			Restaurante Italiano
 		</span>
 
 		<h3 class="tit3 t-center m-b-35 m-t-5">
-			Our Story
+			Nossa História
 		</h3>
 
 		<p class="t-center size32 m-l-r-auto">
-			Fusce at risus eget mi auctor pulvinar. Suspendisse maximus venenatis pretium. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam purus purus, lacinia a scelerisque in, luctus vel felis. Donec odio diam, dignissim a efficitur at, efficitur et est. Pellentesque semper est ut pulvinar ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla et leo accumsan, egestas velit ac, fringilla tortor. Sed varius justo sed luctus mattis.
-		</p>
+			Nascidos nas montanhas dos Alpes Italianos, com vistas para os vales, o clima frio e campestre deu aos nossos avós, fundadores
+        do primeiro Ristorant em Madonna di Campíglio, o sabor e a arte de cozinhar, essa tradição vinda para o Brazil há mais de dois
+        séculos, trás consigo o gostinho italiano em terras brasilianas!</p>
 	</section>
 
 
@@ -70,11 +71,11 @@
 	<section class="section-video parallax100" style="background-image: url(images/header-menu-01.jpg);">
 		<div class="content-video t-center p-t-225 p-b-250">
 			<span class="tit2 p-l-15 p-r-15">
-				Discover
+				Descubra
 			</span>
 
 			<h3 class="tit4 t-center p-l-15 p-r-15 p-t-3">
-				Our Video
+				Nosso Vídeo
 			</h3>
 
 			<div class="btn-play ab-center size16 hov-pointer m-l-r-auto m-t-43 m-b-33" data-toggle="modal" data-target="#modal-video-01">
@@ -94,16 +95,16 @@
 				<div class="col-md-6 p-t-45 p-b-30">
 					<div class="wrap-text-delicious t-center">
 						<span class="tit2 t-center">
-							Delicious
+							Delicioso
 						</span>
 
 						<h3 class="tit3 t-center m-b-35 m-t-5">
-							RECIPES
+							RECEITAS
 						</h3>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
-							Donec quis lorem nulla. Nunc eu odio mi. Morbi nec lobortis est. Sed fringilla, nunc sed imperdiet lacinia, nisl ante egestas mi, ac facilisis ligula sem id neque.
-						</p>
+							Tradições em forma de receitas, rituais carinhosos de se preparar o alimento sagrado,
+                       cada tempero é especial, tal como viver! </p>
 					</div>
 				</div>
 
@@ -126,16 +127,19 @@
 				<div class="col-md-6 p-t-45 p-b-30">
 					<div class="wrap-text-romantic t-center">
 						<span class="tit2 t-center">
-							Romantic
+							Romântico
 						</span>
 
 						<h3 class="tit3 t-center m-b-35 m-t-5">
-							Restaurant
+							Restaurante
 						</h3>
 
 						<p class="t-center m-b-22 size3 m-l-r-auto">
-							Fusce iaculis, quam quis volutpat cursus, tellus quam varius eros, in euismod lorem nisl in ante. Maecenas imperdiet vulputate dui sit amet vestibulum. Nulla quis suscipit nisl.
-						</p>
+							   Uma vida, assim como uma bela refeição, é mais gostosa quando feita a dois,
+                        nosso espaço é famoso por ser um local agradável e romãntico, nossos talheres e
+                            cadeiras já presenciaram o amor se materializando em noivados, casamentos e
+                            aniversários, é uma honra fazer parte da história e dos
+                        bons momentos de nossos clientes!</p>
 					</div>
 				</div>
 			</div>
@@ -153,11 +157,11 @@
 	<section class="section-chef bgwhite p-t-115 p-b-95">
 		<div class="container t-center">
 			<span class="tit2 t-center">
-				Meet Our
+				Conheça nossos
 			</span>
 
 			<h3 class="tit5 t-center m-b-50 m-t-5">
-				Chef
+				Chefs
 			</h3>
 
 			<div class="row">
@@ -178,7 +182,7 @@
 							</span>
 
 							<p class="t-center">
-								Donec porta eleifend mauris ut effici-tur. Quisque non velit vestibulum, lob-ortis mi eget, rhoncus nunc
+								Cozinhar é uma arte, cada prato é único!
 							</p>
 						</div>
 					</div>
@@ -193,7 +197,7 @@
 
 						<div class="text-blo5 size34 t-center bo-rad-10 bo7 p-t-90 p-l-35 p-r-35 p-b-30">
 							<a href="#" class="txt34 dis-block p-b-6">
-								Joyce Bowman
+								Constanza Maddiolli
 							</a>
 
 							<span class="dis-block t-center txt35 p-b-25">
@@ -201,8 +205,8 @@
 							</span>
 
 							<p class="t-center">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultricies felis a sem tempus tempus.
-							</p>
+								Cozinhar é como gerar um filho, mesmo que você tenha quatro, cada um é uma nova experiência,
+                                cada prato tem uma história!</p>
 						</div>
 					</div>
 				</div>
@@ -216,7 +220,7 @@
 
 						<div class="text-blo5 size34 t-center bo-rad-10 bo7 p-t-90 p-l-35 p-r-35 p-b-30">
 							<a href="#" class="txt34 dis-block p-b-6">
-								Peter Hart
+								Pietro Canastronni
 							</a>
 
 							<span class="dis-block t-center txt35 p-b-25">
@@ -224,8 +228,7 @@
 							</span>
 
 							<p class="t-center">
-								Phasellus aliquam libero a nisi varius, vitae placerat sem aliquet. Ut at velit nec ipsum iaculis posuere quis in sapien
-							</p>
+								A vida é bela, comemoremos!</p>
 						</div>
 					</div>
 				</div>
@@ -238,7 +241,7 @@
 	<div class="section-signup bg1-pattern p-t-85 p-b-85">
 		<form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
 			<span class="txt5 m-10">
-				Specials Sign up
+				Reservas Especiais
 			</span>
 
 			<div class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
@@ -248,7 +251,7 @@
 
 			<!-- Button3 -->
 			<button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10">
-				Sign-up
+				Inscrever-se
 			</button>
 		</form>
 	</div>

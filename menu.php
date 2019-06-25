@@ -59,25 +59,25 @@
 				<div class="col-md-10 col-lg-6 p-r-35 p-r-15-lg m-l-r-auto">
 					<div class="wrap-item-mainmenu p-b-22">
 						<h3 class="tit-mainmenu tit10 p-b-25">
-							STARTERS
+							Sobremesas
 						</h3>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Pine nut sbrisalona
+									Tiramísu
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									R$ 29.79
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
+								A suave mistura de queijo com chocolate alpino
 							</span>
 						</div>
 
@@ -85,18 +85,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Aenean eu
+									Cassata Siciliana
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									R$40.35
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
+								lembranças da Sicília
 							</span>
 						</div>
 
@@ -104,18 +104,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Sed feugiat
+									Panna Cotta
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$12.19
+									R$28.19
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
+								Rum e marsalla na região de Piemonte
 							</span>
 						</div>
 
@@ -123,43 +123,43 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Consectetur
+									Panforti
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$21.89
+									R$48.89
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Etiam cursus facilisis tortor
+								Frutas secas ao vinho
 							</span>
 						</div>
 					</div>
 
 					<div class="wrap-item-mainmenu p-b-22">
 						<h3 class="tit-mainmenu tit10 p-b-25">
-							Drinks
+							Bebidas
 						</h3>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Vivamus pretium
+									Martini Rosso
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									R$ 229.79
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
+								Um clássico
 							</span>
 						</div>
 
@@ -167,18 +167,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Duis pharetra ligula
+									Punt e Mes
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.35
+									R$ 119.35
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
+								Uma relíquia italiana
 							</span>
 						</div>
 
@@ -186,18 +186,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									In eu dolor
+									Angostura
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$53.34
+									R$ 153.34
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
+								Seu paladar merece esse prazer
 							</span>
 						</div>
 
@@ -205,18 +205,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Feugiat maximus
+									Campari
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$62.45
+									R$ 162.45
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
+								O vermelho italiano vibrando no seu sangue
 							</span>
 						</div>
 					</div>
@@ -225,25 +225,25 @@
 				<div class="col-md-10 col-lg-6 p-l-35 p-l-15-lg m-l-r-auto">
 					<div class="wrap-item-mainmenu p-b-22">
 						<h3 class="tit-mainmenu tit10 p-b-25">
-							Main
+							Prato Principal
 						</h3>
 
 						<!-- Item mainmenu -->
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Duis sed aliquet
+									Lasagna
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$31.18
+									R$ 131.18
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
+								Uma experiência única
 							</span>
 						</div>
 
@@ -251,18 +251,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Suspendisse
+									Risoto
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$70.25
+									R$ 170.25
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
+								Sua memória afetiva vai amar
 							</span>
 						</div>
 
@@ -270,18 +270,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Scelerisque sed
+									Alcachofras à moda Romana
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$36.19
+									R$ 136.19
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Etiam cursus facilisis tortor
+								Requinte e audácia
 							</span>
 						</div>
 
@@ -289,18 +289,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Mollis nulla
+									Nhoque
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$19.50
+									R$ 119.50
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Proin lacinia nisl ut ultricies posuere nulla
+								lembranças da mama
 							</span>
 						</div>
 
@@ -308,18 +308,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Convallis augue
+									Tortelinni
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.15
+									R$ 89.15
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Sed fermentum eros vitae eros
+								Aroma de cozinha aconchegante
 							</span>
 						</div>
 
@@ -327,18 +327,18 @@
 						<div class="item-mainmenu m-b-36">
 							<div class="flex-w flex-b m-b-3">
 								<a href="#" class="name-item-mainmenu txt21">
-									Maecenas tristique
+									Gnoschi
 								</a>
 
 								<div class="line-item-mainmenu bg3-pattern"></div>
 
 								<div class="price-item-mainmenu txt22">
-									$29.79
+									R$ 129.79
 								</div>
 							</div>
 
 							<span class="info-item-mainmenu txt23">
-								Feugiat maximus neque pharetra
+								Mama mia
 							</span>
 						</div>
 

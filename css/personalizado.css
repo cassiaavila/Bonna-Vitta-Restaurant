@@ -1,0 +1,30 @@
+
+#horizontal{
+
+}
+#cadastrar{
+
+    float: right;
+
+    width: 450px;
+
+}
+#cadastro-form{
+    vertical-align: middle;
+}
+#login{
+    float: left;
+
+    width: 450px;
+    display: table;
+    margin: 0 auto;
+    height: 100%;
+}
+#login-form{
+    display: table-cell;
+    vertical-align: middle;
+    margin: auto;
+
+    height: 100%;
+    width: 50%;
+}

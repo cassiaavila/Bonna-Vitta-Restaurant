@@ -1,4 +1,14 @@
-
+<?php
+session_start();
+if (!isset($_SESSION['UsuarioLog'])){
+    header("Location: loginreservation.php");
+    session_destroy();
+}
+if(isset($_GET['deslogar'])){
+    session_destroy();
+    header("Location: index.php");
+}
+?>
 
 <html lang="pt-br">
 <head>
@@ -189,11 +199,11 @@
 					</h4>
 
 					<p class="size25">
-						Donec quis euismod purus. Donec feugiat ligula rhoncus, varius nisl sed, tincidunt lectus.
+						A comodidade de fazer suas reservas por telefone
 						<span class="txt25">Nulla vulputate</span>
-						, lectus vel volutpat efficitur, orci
+						, calor humano unido a eficiência!
 						<span class="txt25">lacus sodales</span>
-						 sem, sit amet quam:
+						 Fale conosco pelo telefone:
 						<span class="txt24">(055) 63 99202 9021</span>
 					</p>
 				</div>
@@ -204,9 +214,9 @@
 					</h4>
 
 					<p class="size26">
-						Donec feugiat ligula rhoncus:
-						<span class="txt24">(055) 63 99202 9021</span>
-						, varius nisl sed, tinci-dunt lectus sodales sem.
+						Seus eventos terão vida e sabor em nosso Restaurante, traga quem é especial para um lugar único,
+                        com sabores únicos! Fale conosco pelo telefone:
+						<span class="txt24">(055) 63 99202 9088</span>
 					</p>
 				</div>
 

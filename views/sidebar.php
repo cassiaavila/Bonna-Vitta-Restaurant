@@ -31,8 +31,8 @@
 
         <li class="t-center">
             <!-- Button3 -->
-            <a href="<?= SITE_HOME ?>reservation.php" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
-                Reservar
+            <a href="<?= SITE_HOME ?>loginreservation.php" class="btn3 flex-c-m size13 txt11 trans-0-4 m-l-r-auto">
+                Reservas
             </a>
         </li>
     </ul>
