@@ -13,13 +13,14 @@
 
     $usuariodao = new UsuarioDAO();
     $usuariodao->store($usuario);
-    
+
     session_start();
     session_regenerate_id();
 
     $_SESSION['usuario']['nome'] = $nome;
     $_SESSION['usuario']['email'] = $email;
     $_SESSION['UsuarioLog'] = true;
+
     header('location: ../reservation.php');
 
 ?>

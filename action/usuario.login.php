@@ -16,7 +16,6 @@ try {
     $_SESSION['UsuarioLog'] = true;
     header('location: ../reservation.php');
 } catch(Exception $e) {
-    echo "<script>alert('Usuario não encontrado')</script>";
-    header('location: ../loginreservation.php');
+    header('location: ../loginreservation.php?error');
 }
 ?>

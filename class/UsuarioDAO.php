@@ -57,7 +57,7 @@ class UsuarioDAO {
             $query->bindValue(':nome', $usuario->nome);
             $query->bindValue(':telefone', $usuario->telefone);
             $query->bindValue(':email', $usuario->email);
-            $query->bindValue(':senha', $usuario->senha);
+            $query->bindValue(':senha', password_hash($usuario->senha, PASSWORD_DEFAULT));
 
             $query->execute();
 

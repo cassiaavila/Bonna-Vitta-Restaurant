@@ -154,8 +154,11 @@
                                 <input class="bo-rad-10 sizefull txt10 p-l-20" type="password" name="senha" placeholder="Senha">
                             </div>
                         </div>
-
-
+                        <?php
+                        if(isset($_GET['error'])) {
+                            echo '<p style="color:tomato">Usuário ou senha inválidos.</p>';
+                        }
+                        ?>
                     </div>
                     <div class="wrap-btn-booking flex-c-m m-t-6">
                         <!-- Button3 -->
